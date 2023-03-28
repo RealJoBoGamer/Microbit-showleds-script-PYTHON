@@ -1,10 +1,11 @@
 {
-    "name": "Untitled",
+    "name": "Show Leds Python",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Untitled": "github:realjobogamer/microbit-showleds-script-python#81b3f5d660c73daaa1b86e43abe5f2accb65a9eb"
     },
     "files": [
         "main.ts",
