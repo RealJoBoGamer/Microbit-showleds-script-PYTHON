@@ -1,5 +1,5 @@
 
-> Open this page at [https://realjobogamer.github.io/microbit-showleds-script-python/](https://realjobogamer.github.io/microbit-showleds-script-python/)
+> Open this page at [https://realjobogamer.github.io/Microbit-showleds-script-PYTHON/](https://realjobogamer.github.io/Microbit-showleds-script-PYTHON/)
 
 ## Use as Extension
 
